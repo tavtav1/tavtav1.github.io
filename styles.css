@@ -16,14 +16,14 @@
 .sidebar{
     grid-row: 2/3;
     background-color: D2B9B9;
-    text-align: center;
+    padding: 1em;
 }
     
 .maincontent{
     grid-column: 2/3;
     grid-row: 2/3;
     background-color: D2B9B9;
-    padding: 5px;
+    padding: 1em;
     
 }
 
